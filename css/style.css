@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: white;
+    background-image: url("../background.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+    color: #ffffff;
+    cursor: url(http://bringerp.free.fr/Files/RotMG/cursor.gif), pointer;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#logo {
+    background-color: #975015;
+    border-color: #000000;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    height: 100%;
+    margin-top: 40px;
+    width: 100%;
+}
+
+#copyright {
+    float: right;
+}
+
+#links {
+    font-size: 150%;
+    text-align: center;
+}
+
+/*
+#mario {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+*/

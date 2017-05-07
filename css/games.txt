@@ -1,0 +1,17 @@
+Shooter:
+    Counter Strike: Global Offensive
+    Overwatch
+    Battlefield 1
+    Warface
+
+Battle Arena:
+    League of Legends
+    Heroes of the Storm
+
+Battle Royale
+    Player Unknowns Battlegrounds
+    H1Z1 King of the Kill
+
+Indie
+    Bot Land
+    Spark

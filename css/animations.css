@@ -1,0 +1,20 @@
+@keyframes spinner {
+  from {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  to {
+    -moz-transform: rotateY(-360deg);
+    -ms-transform: rotateY(-360deg);
+    transform: rotateY(-360deg);
+  }
+}
+
+#coin {
+    animation-duration: 1.0s;
+    animation-name: spinner;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+
+}
