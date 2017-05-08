@@ -19,12 +19,18 @@ body {
     border-radius: 5px;
     border-style: solid;
     border-width: 3px;
+    color: white;
     height: 100%;
     margin-top: 40px;
     width: 100%;
 }
 
+#logo:hover {
+    color: red;
+}
+
 #copyright {
+    color: white;
     float: right;
 }
 
@@ -33,10 +39,20 @@ body {
     text-align: center;
 }
 
-/*
-#mario {
-    position: absolute;
-    left: 15px;
-    top: 15px;
+.navigationLink {
+    color: white;
 }
-*/
+
+.navigationLink:hover {
+    color: red;
+    font-size: 155%
+}
+
+.gameLogo {
+    width: 100%;
+    max-height: 400px;
+}
+
+.gameDescription {
+    font-size: 75%;
+}
